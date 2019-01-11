@@ -12,13 +12,14 @@
   </head>
   <body>
 
-    <nav class="navbar navbar-light bg-faded">
-  <a class="navbar-brand teal" href="#">
-    <img src="https://vignette.wikia.nocookie.net/knakofeurer/images/9/96/Nobita-Doraemon4.jpg/revision/latest?cb=20130709060437" width="30" height="30" alt="">
-    Projotect
-  </a>
-</nav>
-    <section id="app"></section>
+  <nav class="navbar navbar-light bg-faded">
+    <a class="navbar-brand teal" href="#">
+      <img src="https://vignette.wikia.nocookie.net/knakofeurer/images/9/96/Nobita-Doraemon4.jpg/revision/latest?cb=20130709060437" width="30" height="30" alt="">
+      Projotect
+    </a>
+  </nav>
+
+  <section id="app"></section>
   </body>
 
   <script>
